@@ -1,0 +1,17 @@
+{
+  "name": "q.24-more-conditions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "module": "types",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "naila",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.12.7",
+    "D": "^1.0.0"
+  }
+}
