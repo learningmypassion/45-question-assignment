@@ -1,0 +1,16 @@
+{
+  "name": "q.35animals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "module": "types",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "naila",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.12.7"
+  }
+}
