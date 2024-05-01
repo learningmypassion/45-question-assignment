@@ -1,0 +1,17 @@
+{
+  "name": "q.43-unchanged_magicians-magicians",
+  "version": "1.0.0",
+  "description": "",
+  "main": "unchanged_magicians.js",
+  "dependencies": {
+    "undici-types": "^5.26.5"
+  },
+  "devDependencies": {},
+  "module": "types",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
