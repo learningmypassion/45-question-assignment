@@ -1,9 +1,8 @@
 {
-  "name": "q.14",
+  "name": "q.5",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js", 
-  "type": "module",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,6 +10,6 @@
   "author": "naila",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^20.12.7"
+    "@types/node": "^20.14.1"
   }
 }
